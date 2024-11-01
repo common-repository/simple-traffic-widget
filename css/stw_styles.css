@@ -1,0 +1,24 @@
+#stwmenu {
+  display:none;
+  background-image: none;
+  padding:0;
+  margin:0; 
+  white-space:nowrap;
+  list-style-type:none;
+}
+
+#stwmenu a {
+  padding:2px 2px 2px 2px;
+  margin:2px 2px 2px 2px;	
+}
+
+span.stwlove {
+	font-size:8px!important;	
+}
+
+.stwoption {
+	background:#fff;
+	margin:0;
+	padding:0;
+	display:none;
+}
